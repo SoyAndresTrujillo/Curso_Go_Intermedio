@@ -1,20 +1,20 @@
-# Conocimientos Requeridos
+# Required Knowledge
 
-- Declaración de variables.
-- Condicionales.
-- Sintaxis básica.
-- Declaración de GoRoutines y Channels.
-- Slices y maps.
-- Apuntadores.
+- Variable declaration.
+- Conditionals.
+- Basic syntax.
+- Declaration of GoRoutines and Channels.
+- Slices and maps.
+- Pointers.
 
-# ¿Qué terminaré sabiendo?
+# What will I end up knowing?
 
-- ¿Es Go orientado a objetos?
-- Cómo aplicar los conceptos de POO en Golang.
-- Crear Test Unitarios en Go para aplicar TDD.
-- Calcular el Code Coverage de mi proyecto.
-- Análisis del Profiling en tus programas.
-- Cómo multiplexar mensajes de canales.
-- Técnicas para la creación de Worker Pools concurrentes.
-- Crear Test Unitarios en Go para aplicar TDD.
-- Crear un Job Queue concurrente.
+- Is Go object-oriented?
+- How to apply OOP (Object-Oriented Programming) concepts in Golang.
+- Creating Unit Tests in Go to apply TDD (Test-Driven Development).
+- Calculating Code Coverage of my project.
+- Profiling analysis in your programs.
+- How to multiplex messages from channels.
+- Techniques for creating concurrent Worker Pools.
+- Creating Unit Tests in Go to apply TDD.
+- Creating a concurrent Job Queue.
