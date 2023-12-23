@@ -31,3 +31,6 @@ func main() {
 	fmt.Println("ID Employee:", e.getID())
 	fmt.Println("Name Employee:", e.getName())
 }
+
+// *Employee: accediendo a los valores de la estructura
+// &Employee: accediendo a la referencia de la estructura
