@@ -1,13 +1,9 @@
 package main
 
-import (
-	"fmt"
-)
-
 func main() {
-	number := 10
-	fmt.Println(number)
-	fmt.Println(&number)
+	//number := 10
+	//fmt.Println(number)
+	//fmt.Println(&number)
 
 	// 1. Go routine
 	//c1 := make(chan int)
